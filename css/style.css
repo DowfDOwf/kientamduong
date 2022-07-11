@@ -111,3 +111,8 @@ path {
   bottom: 0;
   right: 0;
 }
+@media (max-width:1366px) {
+  .content {
+    height: 120vh;
+  }
+}

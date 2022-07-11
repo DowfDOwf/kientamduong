@@ -115,4 +115,7 @@ path {
   .content {
     height: 120vh;
   }
+  .main-wrapper {
+    margin-top: 50px;
+  }
 }
